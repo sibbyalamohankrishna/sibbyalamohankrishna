@@ -33,9 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-  <path fill="#035bda" d="M46 40L29.317 10.852 22.808 23.96 34.267 37.24 13 39.655zM13.092 18.182L2 36.896 11.442 35.947 28.033 5.678z"></path>
-  </svg>
+  <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" height="40" alt="php logo" >
+  <img width="12" />
 </div>
 
 ## 🔥My Stats:
