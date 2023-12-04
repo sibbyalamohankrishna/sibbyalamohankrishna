@@ -33,9 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure-devops/azure-devops-original.svg" height="40" alt="azuredevops logo"  />
-  <img width="12" />
-  <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" height="40" alt="php logo" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="azuredevops logo"  />
   <img width="12" />
   
 </div>
