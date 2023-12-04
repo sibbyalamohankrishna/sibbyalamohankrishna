@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" height="40" alt="php logo" >
   <img width="12" />
+  <img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" height="40" alt="php logo">
+  <img width="12" />
 </div>
 
 ## 🔥My Stats:
