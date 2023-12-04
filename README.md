@@ -31,11 +31,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://www.cdnlogo.com/logos/a/12/azure.svg" height="40" alt="php logo" >
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" height="40" alt="php logo">
+  <img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" height="40" alt="azure logo">
   <img width="12" />
 </div>
 
