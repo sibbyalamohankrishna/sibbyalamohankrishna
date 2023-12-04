@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" height="40">
+  <img src="https://res.cloudinary.com/du5rsba1t/image/upload/v1701713285/AzureDevopsLogo_jpxmrl.png" height="40">
   <img width="12" />
   
 </div>
